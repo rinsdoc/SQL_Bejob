@@ -15,4 +15,4 @@ MySQL or MariaDB: Ensure you have MySQL or MariaDB installed on your system.
 phpMyAdmin (optional): You can use phpMyAdmin to easily import the SQL file.
 
 ## License
-This project is open-source, and you are free to use and modify it as needed for your applications.
+This project is open-source.
